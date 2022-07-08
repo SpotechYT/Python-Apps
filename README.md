@@ -1,4 +1,4 @@
-# Python-Games
+# Python-Apps
 
 A collections of all my completed Python Games from start to finish.
 Please DO NOT take this as your own. I worked realy hard and would like to be notified if you are planning to use/mention my work.
