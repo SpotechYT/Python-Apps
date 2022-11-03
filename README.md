@@ -11,7 +11,7 @@ All Apps:
   1. Collatz Sequence
   
 # Games  
-# 1. Sheep Wheat
+## 1. Sheep Wheat
 
 This game is about a minecraft sheep that you move around your screen to collect wheat to get whool then shear the wool
 
@@ -22,7 +22,7 @@ Controls:
 Screen Shots: (Comming Soon)
 
 
-# 2. Pong Game
+## 2. Pong Game
 
 This game is a python recreation of the original game, Pong.
 
@@ -47,7 +47,7 @@ Screen Shots: (Comming Soon)
 
 
 # Apps
-# 1. Collatz Sequence
+## 1. Collatz Sequence
 
 This app is to test the collatz sequence and create a text file with all the possible patters to get to 1 for every number
 WARNING: running this software WILL FILL UP YOUR STORAGE verry qucikly with the text document
